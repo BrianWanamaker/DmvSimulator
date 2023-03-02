@@ -10,7 +10,7 @@ public class DmvSimulator
 
         System.out.println("Weclome to the DMV!");
         
-        int num = (ran.nextInt(99)+1);
+        int num = (ran.nextInt(199)+1);
         System.out.println("Your number is: " + num );
 
         int numCalled = num+1;
@@ -21,7 +21,7 @@ public class DmvSimulator
             numCalled++;
             System.out.println("Press enter to continue");
             in.nextLine();
-            if(numCalled==101)
+            if(numCalled==201)
             {
                 numCalled=1;
             }
