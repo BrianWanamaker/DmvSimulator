@@ -30,6 +30,7 @@ public class DmvSimulator
         System.out.println("Press enter to continue");
         in.nextLine();
         System.out.println("HEY GET OUT OF MY OFFICE YOU DONT HAVE UR DOCUMENTATION!!!");
+        System.out.println("HAHAHHAHAHAHAH HEHEHE HAAHAHHA HEEHAW");
         
 
     }
