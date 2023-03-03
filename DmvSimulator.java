@@ -37,9 +37,7 @@ public class DmvSimulator
         else
         {
             System.out.println("HEY GET OUT OF MY OFFICE YOU DONT HAVE UR DOCUMENTATION!!!");
+            System.out.println("HAHAHHAHAHAHAH HEHEHE HAAHAHHA HEEHAW");
         }
-        
-        
-
     }
 }
