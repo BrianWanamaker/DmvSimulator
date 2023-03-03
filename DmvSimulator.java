@@ -29,7 +29,7 @@ public class DmvSimulator
         System.out.println("Number " + numCalled + " please come to the front!");
         System.out.println("Press enter to continue");
         in.nextLine();
-        System.out.println("Im sorry, you do not have the correct paper work...");
+        System.out.println("HEY GET OUT OF MY OFFICE YOU DONT HAVE UR DOCUMENTATION!!!");
         
 
     }
