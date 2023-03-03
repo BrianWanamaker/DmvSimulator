@@ -29,9 +29,15 @@ public class DmvSimulator
         System.out.println("Number " + numCalled + " please come to the front!");
         System.out.println("Press enter to continue");
         in.nextLine();
-        System.out.println("HEY GET OUT OF MY OFFICE YOU DONT HAVE UR DOCUMENTATION!!!");
-        System.out.println("HAHAHHAHAHAHAH HEHEHE HAAHAHHA HEEHAW");
-        
-
+        int miracle = ran.nextInt(99)+1;
+        if(ran.nextInt(99)+1==miracle)
+        {
+            System.out.println("Congrats, you have all your paper work and are all set!");
+        }
+        else
+        {
+            System.out.println("HEY GET OUT OF MY OFFICE YOU DONT HAVE UR DOCUMENTATION!!!");
+            System.out.println("HAHAHHAHAHAHAH HEHEHE HAAHAHHA HEEHAW");
+        }
     }
 }
